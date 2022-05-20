@@ -1,3 +1,3 @@
-# jamhacks6
+# Meleti
 Yourself, Cookie's Owner, Joshua.4738, and Larg Ank's submission for Jamhacks 6. <br />
-test test test
+All-in-one productivity discord bot
